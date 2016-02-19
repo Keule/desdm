@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  mode: MyString
+  radius: 1
+  angle_offset: 1
+  center_x: 1
+  center_y: 1
+  curvature_direction_id: 
+
+two:
+  mode: MyString
+  radius: 1
+  angle_offset: 1
+  center_x: 1
+  center_y: 1
+  curvature_direction_id: 
