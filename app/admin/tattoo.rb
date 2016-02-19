@@ -1,4 +1,5 @@
 ActiveAdmin.register Tattoo do
+  permit_params :name, :image_path
 
 # See permitted parameters documentation:
 # https://github.com/activeadmin/activeadmin/blob/master/docs/2-resource-customization.md#setting-up-strong-parameters
