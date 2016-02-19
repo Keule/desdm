@@ -1,0 +1,27 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  top: 1
+  left: 1
+  height: 1
+  width: 1
+  orientation_id: 
+  font_id: 
+  font_weight_id: 
+  font_style_id: 
+  font_alignment_id: 
+  font_size: 1
+  curvature_id: 
+
+two:
+  top: 1
+  left: 1
+  height: 1
+  width: 1
+  orientation_id: 
+  font_id: 
+  font_weight_id: 
+  font_style_id: 
+  font_alignment_id: 
+  font_size: 1
+  curvature_id: 
